@@ -1,2 +1,2 @@
-# LP
-Linguagens de Programação
+# Linguagens de Programação
+
