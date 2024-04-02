@@ -3,7 +3,9 @@
 ### 1. Detalhes do Projeto:
 - É um sistema de loteria chamado LOTOFÁCIL escrito em Java. O sistema é capaz de gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios de acordo com as regras da loteria.
 - Foi criado um menu através das estruturas switch case e do while para o usuário selecionar o tipo de aposta desejada:
+
 ![Captura de tela 2024-04-02 152609](https://github.com/CarlosEOsawaC/LP/assets/164787161/163c539e-4fd1-4299-810e-0476cd7beea8)
+
 #### Opção 1) Aposta de 0 à 100:
   - Utilizando a biblioteca Scanner, o programa vai ler um número inteiro via teclado, de 0 a 100, caso o número seja maior que 100 ou menor que 0, a mensagem: “Aposta inválida.” será impressa.
   - Caso o usuário acerte a aposta, a mensagem “Você ganhou R$ 1.000,00 reais.” será impressa. Caso o usuário erre, a mensagem: “Que pena! O número sorteado foi: X.” será impressa.
