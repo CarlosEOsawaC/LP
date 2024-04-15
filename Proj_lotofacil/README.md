@@ -1,10 +1,5 @@
 # Projeto Lotofácil
-## 1. Como acessar:
-#### Sem interface gráfica:
-Proj_lotofacil > src > Main
-#### Com interface gráfica:
-Proj_lotofacil > src > LotofacilGUI
-## 2. Detalhes do projeto:
+## 1. Detalhes do projeto:
 - É um sistema de loteria chamado LOTOFÁCIL escrito em Java. O sistema é capaz de gerar jogos aleatórios, permitir que os jogadores façam suas apostas, verificar os resultados e calcular prêmios de acordo com as regras da loteria.
 - Foi criado um menu para o usuário selecionar o tipo de aposta desejada:
 #### Sem interface gráfica:
@@ -70,7 +65,7 @@ Proj_lotofacil > src > LotofacilGUI
 - Para finalizar a execução basta fechar a janela do programa no icone "X".
 
 ![Captura de tela 2024-04-14 225414](https://github.com/CarlosEOsawaC/LP/assets/164787161/683b3fcb-f852-413b-81c8-e1ac00a4da65)
-## 3. Bibliotecas utilizadas:
+## 2. Bibliotecas utilizadas:
 ### Projeto sem interface gráfica:
 - java.util.Scanner
 - java.util.Ramdom
@@ -80,5 +75,5 @@ Proj_lotofacil > src > LotofacilGUI
 - java.awt.event.ActionEvent
 - java.awt.event.ActionListener
 - java.util.Random
-## 4. Versão JDK do projeto:
+## 3. Versão JDK do projeto:
 openjdk-22 (OpenJDK version 22)
