@@ -1,7 +1,9 @@
 # Linguagens de Programação
-## Como acessar o código
+## Acesso direto:
 ### Projeto Lotofácil:
-#### Sem interface gráfica:
-Proj_lotofacil > src > Main
-#### Com interface gráfica:
-Proj_lotofacil > src > LotofacilGUI
+#### Código sem interface gráfica:
+https://github.com/CarlosEOsawaC/LP/blob/main/Proj_lotofacil/src/Main.java
+#### Código com interface gráfica:
+https://github.com/CarlosEOsawaC/LP/blob/main/Proj_lotofacil/src/LotofacilGUI.java
+#### README:
+https://github.com/CarlosEOsawaC/LP/blob/main/Proj_lotofacil/README.md
